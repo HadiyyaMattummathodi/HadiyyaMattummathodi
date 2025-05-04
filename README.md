@@ -2,11 +2,11 @@
 
 I'm a Computer Science graduate specializing in **Artificial Intelligence and Big Data**, driven by a passion for solving real-world problems through data and intelligent systems. From hackathons  to academic excellence, I’ve consistently challenged myself to build solutions that blend innovation, research, and technical depth. 🧠🚀
 
-Whether it's classifying biochip fingerprints with deep learning, forecasting retail sales with multivariate time series models, or analyzing voice streams on edge devices — I love combining **AI**, **data mining**, and **edge computing** to create meaningful impact.
+Whether it's classifying biochip fingerprints with deep learning, PPE detection and fall monitoring via computer vision, forecasting retail sales with multivariate time series models, or analyzing voice streams on edge devices — I love combining **AI**, **data mining**, and **edge computing** to create meaningful impact.
 
 📍 **Based in:** Abu Dhabi, UAE  
 🎓 **Alma Mater:** University of Wollongong in Dubai  
-🏅 **Honors:** Golden Visa Holder, Dean’s Merit Award, 3× Hackathon Winner, Academic Merit Scholar
+🏅 **Honors:** Golden Visa Holder, Dean’s Merit Award, 3× Hackathon Winner, 2x Academic Merit Scholar
 
 ---
 
