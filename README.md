@@ -10,8 +10,6 @@ Whether it's classifying biochip fingerprints with deep learning, forecasting re
 
 ---
 
-:
-
 🔧 Skills & Technologies
 👩‍💻 Programming Languages
 Python 🐍 · R 📊 · Java 💻 · C/C++ ➕➕ · SQL · HTML/CSS 🌐 · JavaScript (basic) · Bash
