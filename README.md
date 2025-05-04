@@ -62,7 +62,7 @@ Whether it's classifying biochip fingerprints with deep learning, PPE detection 
 - Plotly 📉  
 - Power BI ⚡  
 
-**Concepts**  
+**Methodologies**  
 - Exploratory Data Analysis 🔍  
 - Feature Engineering 🏗️  
 - Outlier Detection 🚨  
