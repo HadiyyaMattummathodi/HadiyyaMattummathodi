@@ -10,39 +10,126 @@ Whether it's classifying biochip fingerprints with deep learning, forecasting re
 
 ---
 
-🔧 Skills & Technologies
-👩‍💻 Programming Languages
-Python 🐍 · R 📊 · Java 💻 · C/C++ ➕➕ · SQL · HTML/CSS 🌐 · JavaScript (basic) · Bash
+# 🔧 Skills & Technologies
 
-🤖 AI, Machine Learning & Deep Learning
-Frameworks & Libraries: TensorFlow · Keras · PyTorch · Scikit-Learn · XGBoost
+---
 
-Techniques & Models: CNNs · YOLO · Transfer Learning · SVM · Random Forest · Logistic Regression · Gradient Boosting · Ensemble Models · Binary Classification · Time Series Forecasting (VAR, MARIMA) · Clustering (K-Modes, Hierarchical, DBSCAN, Model-Based) · Predictive Modeling
+## 👩‍💻 Programming Languages  
+- **Python** 🐍  
+- **R** 📊  
+- **Java** 💻  
+- **C/C++** ➕➕  
+- **SQL** 🧾  
+- **HTML/CSS** 🌐  
+- **JavaScript (basic)** 📜  
+- **Bash** 🖥️  
 
-📊 Data Science & Big Data
-Libraries & Tools: Pandas · NumPy · Dplyr (R) · Tidyverse · Matplotlib · Seaborn · Plotly · Power BI
+---
 
-Concepts: Exploratory Data Analysis · Feature Engineering · Outlier Detection · Dimensionality Reduction · Statistical Data Analysis
+## 🤖 AI, Machine Learning & Deep Learning  
 
-Big Data Ecosystem: Azure Data Factory · Databricks · Azure Data Lake · Spark (basic)
+**Frameworks & Libraries**  
+- TensorFlow 🔶  
+- Keras 🧠  
+- PyTorch 🔥  
+- Scikit-Learn 📚  
+- XGBoost 🚀  
 
-🔐 Security & Systems
-Threat Modeling & Analysis · Cyber-Physical Security · CAD/CAM Security · 3D Printing Attacks · Provenance Tracking
+**Techniques & Models**  
+- CNNs 🧬  
+- YOLO 🎯  
+- Transfer Learning 🔁  
+- SVM ✴️  
+- Random Forest 🌳  
+- Logistic Regression 📈  
+- Gradient Boosting 🌠  
+- Ensemble Models 👥  
+- Binary Classification ⚫⚪  
+- Time Series Forecasting (VAR, MARIMA) ⏳  
+- Clustering (K-Modes, Hierarchical, DBSCAN, Model-Based) 🧩  
+- Predictive Modeling 🔮  
 
-🎤 Voice, Audio & Computer Vision
-Voice: Vosk · KaldiRecognizer
+---
 
-Vision: OpenCV · YOLO · Real-Time Stream Analysis · PPE Detection · Unsafe Behavior Detection
+## 📊 Data Science & Big Data  
 
-🌐 Web Development & Interfaces
-Frontend: HTML · CSS · JavaScript · React · Figma
+**Libraries & Tools**  
+- Pandas 🐼  
+- NumPy 🔢  
+- Dplyr (R) 🛠️  
+- Tidyverse 🌈  
+- Matplotlib 📊  
+- Seaborn 🌊  
+- Plotly 📉  
+- Power BI ⚡  
 
-Backend/DBs: PostgreSQL · MySQL · MongoDB · Render · TablePlus
+**Concepts**  
+- Exploratory Data Analysis 🔍  
+- Feature Engineering 🏗️  
+- Outlier Detection 🚨  
+- Dimensionality Reduction 📦  
+- Statistical Data Analysis 📐  
 
-Stacks: MERN Stack (basic exposure)
+**Big Data Ecosystem**  
+- Azure Data Factory 🏭  
+- Databricks 🔷  
+- Azure Data Lake 💧  
+- Spark (basic) ✨  
 
-🚀 Tools & Dev Practices
-Git/GitHub · Docker (basic) · Linux · Jupyter Notebook · Google Colab · Google Workspace · Microsoft Office · VS Code · Google Drive
+---
+
+## 🔐 Security & Systems  
+- Threat Modeling & Analysis 🧠  
+- Cyber-Physical Security 🛡️  
+- CAD/CAM Security 🧰  
+- 3D Printing Attacks 🖨️💥  
+- Provenance Tracking 🧾  
+
+---
+
+## 🎤 Voice, Audio & Computer Vision  
+
+**Voice**  
+- Vosk 🔊  
+- KaldiRecognizer 🎙️  
+
+**Vision**  
+- OpenCV 👁️  
+- YOLO 📦  
+- Real-Time Stream Analysis 🎥  
+- PPE Detection 🦺  
+- Unsafe Behavior Detection 🚷  
+
+---
+
+## 🌐 Web Development & Interfaces  
+
+**Frontend**  
+- HTML 📝  
+- CSS 🎨  
+- JavaScript 📜  
+- React ⚛️  
+- Figma 🧩  
+
+**Backend/Databases**  
+- PostgreSQL 🐘  
+- MySQL 🗃️  
+- MongoDB 🍃  
+- Render 🌍  
+- TablePlus 🧮  
+
+**Stacks**  
+- MERN Stack 🧱  
+
+---
+
+## 🚀 Tools & Dev Practices  
+- Git/GitHub 🐙  
+- Jupyter Notebook 📓  
+- Google Colab ☁️  
+- Google Workspace 🧰  
+- Microsoft Office 📂  
+- VS Code 🖊️  
 
 ---
 
