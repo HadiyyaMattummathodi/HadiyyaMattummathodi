@@ -209,5 +209,5 @@ Applied K-Modes, hierarchical, model-based, and DBSCAN clustering to extract dem
 I’m always open to collaboration, mentorship, and discussion on AI, data science, or research-based innovation.  
 Whether you're looking to brainstorm ideas or build something impactful — let’s talk!
 
-- 📬 Email: `hadiyyasakkir@gmail.com`  
+- 📬 Email: `hadiyyasakkir@gmail.com`, `hsshh999@uowmail.edu.au` 
 - 🖇️ LinkedIn: https://www.linkedin.com/in/hadiyya-s-mattummathodi-profile/ 
