@@ -21,7 +21,7 @@ Whether it's classifying biochip fingerprints with deep learning, PPE detection 
 - **C/C++** ➕➕  
 - **SQL** 🧾  
 - **HTML/CSS** 🌐  
-- **JavaScript (basic)** 📜  
+- **JavaScript** 📜  
 - **Bash** 🖥️  
 
 ---
@@ -74,7 +74,7 @@ Whether it's classifying biochip fingerprints with deep learning, PPE detection 
 - Azure Data Factory 🏭  
 - Databricks 🔷  
 - Azure Data Lake 💧  
-- Spark (basic) ✨  
+- Spark ✨  
 
 ---
 
@@ -175,16 +175,16 @@ Designed a dynamic dashboard for financial and debtor insights using processed d
 **Jan 2025 – Feb 2025 | UOWD**  
 Classified Dubai traffic incidents by severity using data from Dubai Police and OpenStreetMap.  
 **Result:** ~83% accuracy with logistic regression and bagging ensemble  
-**Skills:** Machine Learning · Logistic Regression · Data Fusion · Geospatial Analysis · Arabic NLP
+**Skills:** Machine Learning · Logistic Regression · Data Fusion · Geospatial Analysis
 
 ### 🗣️ Voice Stream Analysis: Control or Broadcast  
 **Feb 2024 | AAICO Hackathon**  
-Built a real-time audio classifier using Vosk and KaldiRecognizer to distinguish between communication vs. command intent for edge deployment.  
-**Skills:** Audio Processing · NLP · Edge AI · Real-Time Systems · Raspberry Pi
+Built a real-time audio classifier using Vosk and KaldiRecognizer to distinguish between communication vs. command intent for edge deployment in critical firefighter communication.  
+**Skills:** Audio Processing · NLP · Edge AI · Real-Time Systems 
 
 ### 🛒 Retail Sales Forecasting for Favorita Stores (Ecuador)  
 **INFO411 Capstone**  
-Forecasted product sales using VAR and MARIMA multivariate time series models, integrating external shocks (e.g., earthquakes).  
+Forecasted product sales using VAR and MARIMA multivariate time series models, integrating external shocks (e.g., earthquakes, governement restrictions).  
 **Skills:** Time Series Forecasting · VAR · RMSE · Socioeconomic Analytics
 
 ### 📊 Socioeconomic Data Clustering (UCI Adult Dataset)  
