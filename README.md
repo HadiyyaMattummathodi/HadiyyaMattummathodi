@@ -10,33 +10,41 @@ Whether it's classifying biochip fingerprints with deep learning, forecasting re
 
 ---
 
-## 🔧 Skills & Technologies
+:
 
-### Programming Languages
-- Python 🐍, R 📊, Java 💻, C/C++ ➕➕, HTML/CSS 🌐, SQL
+🔧 Skills & Technologies
+👩‍💻 Programming Languages
+Python 🐍 · R 📊 · Java 💻 · C/C++ ➕➕ · SQL · HTML/CSS 🌐 · JavaScript (basic) · Bash
 
-### AI, Machine Learning & Deep Learning
-- **Frameworks:** TensorFlow, Keras, PyTorch, Scikit-Learn
-- **Projects:** CNNs for image classification, MARIMA/VAR for forecasting, stream segmentation with Vosk/KaldiRecognizer
-- **Techniques:** Binary classification, time series forecasting, clustering, real-time stream analysis
+🤖 AI, Machine Learning & Deep Learning
+Frameworks & Libraries: TensorFlow · Keras · PyTorch · Scikit-Learn · XGBoost
 
-### Data Mining & Big Data
-- **Clustering Algorithms:** K-Modes, Hierarchical, DBSCAN, Model-Based
-- **Data Tools:** Pandas, NumPy, Dplyr (R), Tidyverse
-- **Big Data Concepts:** Feature engineering, data cleaning, dimensionality reduction, outlier detection
+Techniques & Models: CNNs · YOLO · Transfer Learning · SVM · Random Forest · Logistic Regression · Gradient Boosting · Ensemble Models · Binary Classification · Time Series Forecasting (VAR, MARIMA) · Clustering (K-Modes, Hierarchical, DBSCAN, Model-Based) · Predictive Modeling
 
-### Data Visualization
-- Seaborn, Matplotlib, Plotly, Excel 📈
+📊 Data Science & Big Data
+Libraries & Tools: Pandas · NumPy · Dplyr (R) · Tidyverse · Matplotlib · Seaborn · Plotly · Power BI
 
-### Web & Interfaces
-- **Backends:** PostGres, Render, MySQL, TablePlus
-- **Frontends:** HTML, React, JavaScript, CSS
+Concepts: Exploratory Data Analysis · Feature Engineering · Outlier Detection · Dimensionality Reduction · Statistical Data Analysis
 
-### Voice & Audio Processing
-- Vosk, KaldiRecognizer
+Big Data Ecosystem: Azure Data Factory · Databricks · Azure Data Lake · Spark (basic)
 
-### Model Deployment & Dev Practices
-- GitHub, Git, VS Code, Colab, Jupyter Notebook, Google Drive
+🔐 Security & Systems
+Threat Modeling & Analysis · Cyber-Physical Security · CAD/CAM Security · 3D Printing Attacks · Provenance Tracking
+
+🎤 Voice, Audio & Computer Vision
+Voice: Vosk · KaldiRecognizer
+
+Vision: OpenCV · YOLO · Real-Time Stream Analysis · PPE Detection · Unsafe Behavior Detection
+
+🌐 Web Development & Interfaces
+Frontend: HTML · CSS · JavaScript · React · Figma
+
+Backend/DBs: PostgreSQL · MySQL · MongoDB · Render · TablePlus
+
+Stacks: MERN Stack (basic exposure)
+
+🚀 Tools & Dev Practices
+Git/GitHub · Docker (basic) · Linux · Jupyter Notebook · Google Colab · Google Workspace · Microsoft Office · VS Code · Google Drive
 
 ---
 
