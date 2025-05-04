@@ -22,7 +22,6 @@ Whether it's classifying biochip fingerprints with deep learning, PPE detection 
 - **SQL** 🧾  
 - **HTML/CSS** 🌐  
 - **JavaScript** 📜  
-- **Bash** 🖥️  
 
 ---
 
