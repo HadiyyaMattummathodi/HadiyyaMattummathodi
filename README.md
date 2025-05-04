@@ -40,23 +40,63 @@ Whether it's classifying biochip fingerprints with deep learning, forecasting re
 
 ---
 
-## 🧪 Featured Projects
+## 💼 Projects
 
-### 🔬 Deep Learning for Biochip Verification (🥇 1st Place – BioHack3D 2024)
-- Built a CNN classifier to distinguish authentic vs inauthentic melt-electrospun biochip fingerprints (8kV vs other voltages)
-- Achieved **99.48% accuracy**, **100% recall**, **98.03% F1 Score**
+### 🧬 BioHack3D: Deep Learning Model for Biochip Verification  
+**Feb 2024 – Mar 2024 | NYU Abu Dhabi**  
+Developed a CNN-based binary classifier for verifying melt-electrospun biochips from SEM fingerprint images (8kV authentic vs. 6kV–10kV inauthentic).  
+**Results:** 99.48% accuracy, 100% recall, 98.03% F1-score  
+**Skills:** Deep Learning · CNN · Image Classification · Python · TensorFlow
 
-### 📈 Multivariate Retail Sales Forecasting (INFO411 Project)
-- Forecasted Favorita store sales across 5 product families using VAR and MARIMA models
-- Handled promotions, holidays, wage cycles, and seismic anomalies in analysis
+### 🛡️ Threat Modeling and Countermeasure Development for 3D-Printed Biochips  
+**Nov 2023 | BioHack3D ‘23, NYU Abu Dhabi**  
+Developed strategies to secure 3D-printed biochip components from stealth attacks via CAD/STL manipulation, compromising mechanical integrity and fluid flow.  
+Proposed layered defense: ultrasonic inspection, STL watermarking, provenance logging, real-time material monitoring, and acoustic anomaly analysis.  
+**Skills:** 3D Printing · CAD/CAM · Threat Analysis · Cyber-Physical Systems · Security Engineering
 
-### 🧩 Socioeconomic Pattern Discovery via Clustering
-- Applied K-Modes, DBSCAN, and hierarchical clustering on the UCI Adult dataset
-- Extracted demographic-financial segments with insights into income, job types, education, and relationships
+### 🧠 Brain Tumor Classification via Transfer Learning - InceptionV3  
+**Feb 2025 – Mar 2025 | UOWD**  
+Built a deep learning model to classify Meningioma, Glioma, and Pituitary tumors from 3064 contrast-enhanced MRI scans using fine-tuned InceptionV3.  
+**Skills:** Deep Learning · Transfer Learning · TensorFlow · Keras · Medical Imaging
 
-### 🎙️ Voice Stream Analysis for Edge Devices (🥈 AAICO Hackathon)
-- Built a lightweight command-vs-conversation classifier on Raspberry Pi using Vosk and KaldiRecognizer
-- Tokenized audio into segment labels for real-time response detection
+### 🚧 Ellipsis: AI-Powered Construction Site Monitoring  
+**Sep 2024 – Apr 2025 | Pejman Jouzi and Partners**  
+YOLOv11x + OpenCV system to detect PPE compliance and fall protection violations from drone/CCTV footage. Integrated into a PWA dashboard for live alerts and analytics.  
+**Skills:** Computer Vision · YOLO · OpenCV · PWA · Real-time Monitoring
+
+### 🧾 Predictive Modeling for Debtor Risk Assessment at ANTRMA  
+**Jan 2025 – Feb 2025 | UOWD**  
+Trained Logistic Regression, SVM, RF, and GBM models on debtor financial and behavioral data. Enabled risk categorization and automated scoring.  
+**Skills:** Machine Learning · SVM · Random Forest · Gradient Boosting · Risk Modeling
+
+### 🌊 Azure Data Lake Implementation for ANTRMA  
+**Sep 2024 – Dec 2024 | UOWD**  
+Engineered a scalable data ingestion and processing pipeline using Azure Data Factory, Data Lake Gen2, and Databricks with Python scripting.  
+**Skills:** Azure · Data Engineering · Python · Data Factory · Databricks · Lakehouse
+
+### 📊 Power BI Dashboard for ANTRMA  
+Designed a dynamic dashboard for financial and debtor insights using processed data from Azure pipelines.  
+**Skills:** Power BI · Data Visualization · KPI Reporting
+
+### 🚗 Traffic Incident Severity Classification via Dubai Pulse  
+**Jan 2025 – Feb 2025 | UOWD**  
+Classified Dubai traffic incidents by severity using data from Dubai Police and OpenStreetMap.  
+**Result:** ~83% accuracy with logistic regression and bagging ensemble  
+**Skills:** Machine Learning · Logistic Regression · Data Fusion · Geospatial Analysis · Arabic NLP
+
+### 🗣️ Voice Stream Analysis: Control or Broadcast  
+**Feb 2024 | AAICO Hackathon**  
+Built a real-time audio classifier using Vosk and KaldiRecognizer to distinguish between communication vs. command intent for edge deployment.  
+**Skills:** Audio Processing · NLP · Edge AI · Real-Time Systems · Raspberry Pi
+
+### 🛒 Retail Sales Forecasting for Favorita Stores (Ecuador)  
+**INFO411 Capstone**  
+Forecasted product sales using VAR and MARIMA multivariate time series models, integrating external shocks (e.g., earthquakes).  
+**Skills:** Time Series Forecasting · VAR · RMSE · Socioeconomic Analytics
+
+### 📊 Socioeconomic Data Clustering (UCI Adult Dataset)  
+Applied K-Modes, hierarchical, model-based, and DBSCAN clustering to extract demographic and financial groupings.  
+**Skills:** Unsupervised Learning · Clustering · Data Mining · Socioeconomic Analytics
 
 ---
 
